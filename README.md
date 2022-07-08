@@ -1,28 +1,25 @@
 
+<h1 align="center">Hey there <img src="./images/drum.webp"/ align="center" width="66"></h1>
 
 My name is Robert Rybczynski, I'm a full-stack developer from Poland, living in London. 
 
-<div id="header" align="center">
-<div id="title" align="center>
-<h1> Hello there </h1>
-<img src="./images/drum.webp" width=100 />
-</div>
+
 <img src="./images/techno.gif" width="100"/>
   <h1>Technologies</h1>
    
-  <img src="./images/python.svg" width="60"/>
-  <img src="./images/nodedotjs.svg" width="60"/>
-  <img src="./images/typescript.svg" width="60"/>
-  <img src="./images/react.svg" width="60"/>
-  <img src="./images/angular.svg" width="60"/>
-    <img src="./images/css3.svg" width="60"/>
-  <img src="./images/sass.svg" width="60"/>
-  <img src="./images/express.svg" width="60"/>
-  <img src="./images/mongodb.svg" width="60"/>
-  <img src="./images/postgresql.svg" width="60"/>
-  <img src="./images/koa.svg" width="60"/>
-  <img src="./images/graphql.svg" width="60"/>
-  <img src="./images/firebase.svg" width="60"/>
+  <img src="./images/python.svg" width="55"/>
+  <img src="./images/nodedotjs.svg" width="55"/>
+  <img src="./images/typescript.svg" width="55"/>
+  <img src="./images/react.svg" width="55"/>
+  <img src="./images/angular.svg" width="55"/>
+    <img src="./images/css3.svg" width="55"/>
+  <img src="./images/sass.svg" width="55"/>
+  <img src="./images/express.svg" width="55"/>
+  <img src="./images/mongodb.svg" width="55"/>
+  <img src="./images/postgresql.svg" width="55"/>
+  <img src="./images/koa.svg" width="55"/>
+  <img src="./images/graphql.svg" width="55"/>
+  <img src="./images/firebase.svg" width="55"/>
 
 
  </div>
