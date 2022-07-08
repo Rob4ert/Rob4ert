@@ -2,7 +2,9 @@
 My name is Robert Rybczynski, I'm a full-stack developer from Poland, living in London. 
 
 <div id="header" align="center">
+<img src="./images/techno.gif" width="100"/>
   <h1>Technologies</h1>
+   
   <img src="./images/python.svg" width="60"/>
   <img src="./images/nodedotjs.svg" width="60"/>
   <img src="./images/typescript.svg" width="60"/>
