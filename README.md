@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there <img src="./images/drum.webp"/ align="center" width="66"></h1>
 
-My name is Robert Rybczynski, I'm a full-stack developer from Poland, living in London. 
+My name is Robert Rybczynski, I'm a full-stack developer based in London. 
 
 <div align="center">
 <img src="./images/techno.gif" width="100"/>
@@ -28,18 +28,3 @@ My name is Robert Rybczynski, I'm a full-stack developer from Poland, living in 
 
 <h1 align="left">Checkout my latest project: </h1>
 <a href="https://rubberduckit.netlify.app/"> Rubber-Duck <img src="./images/favicon.ico" width="25"/> <a href="https://github.com/Rob4ert/Rubber-Duck">GitHub repo</a></a>
-
-<!--
-**Rob4ert/Rob4ert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
