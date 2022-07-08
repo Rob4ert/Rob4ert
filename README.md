@@ -1,7 +1,12 @@
-### Hello there 👋
+
+
 My name is Robert Rybczynski, I'm a full-stack developer from Poland, living in London. 
 
 <div id="header" align="center">
+<div id="title" align="center>
+<h1> Hello there </h1>
+<img src="./images/drum.webp" width=100 />
+</div>
 <img src="./images/techno.gif" width="100"/>
   <h1>Technologies</h1>
    
