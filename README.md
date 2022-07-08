@@ -27,8 +27,8 @@ My name is Robert Rybczynski, I'm a full-stack developer from Poland, living in 
 
 
 <h1 align="left">Checkout my latest project: </h1>
-<a href="https://rubberduckit.netlify.app/">Rubber-Duck <img src="./images/favicon.ico" width="25"/> </a>
-[Rubber-Duck](#rubberduckit.netlify.app/)
+<a href="https://rubberduckit.netlify.app/"> Rubber-Duck <img src="./images/favicon.ico" width="25"/> </a>
+
 <!--
 **Rob4ert/Rob4ert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
