@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there 👋
+My name is Robert Rybczynski, I'm a full-stack developer from Poland, living in London. 
+
+
+
+|![Screenshot](images/angular.svg)|||
+|---:|---:|---:|
+
+
+
 
 <!--
 **Rob4ert/Rob4ert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
