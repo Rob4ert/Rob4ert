@@ -3,7 +3,7 @@
 
 My name is Robert Rybczynski, I'm a full-stack developer from Poland, living in London. 
 
-
+<div align="center">
 <img src="./images/techno.gif" width="100"/>
   <h1>Technologies</h1>
    
