@@ -40,5 +40,8 @@ My name is Robert Rybczynski, I'm a full-stack developer based in London, with a
 
 
 
-<h1 align="left">Checkout my latest project: </h1>
-<a href="https://rubberduckit.netlify.app/"> Rubber-Duck <img src="./images/favicon.ico" width="25"/> <a href="https://github.com/Rob4ert/Rubber-Duck">GitHub repo</a></a>
+<h1 align="center">Checkout my latest project: </h1>
+<div align="center">
+<a href="https://rubberduckit.netlify.app/" align="center"> Rubber-Duck <img src="./images/favicon.ico" width="25"/ align="center"> <a href="https://github.com/Rob4ert/Rubber-Duck" align="center">GitHub repo</a></a>
+  </div>
+
