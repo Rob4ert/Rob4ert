@@ -3,6 +3,7 @@
 
 My name is Robert Rybczynski, I'm a full-stack developer based in London, with a mind set on pursuing the depth of web development. Working mostly with React, but constantly learning new technologies and exploring new projects. Part-time traveler, adventurer and philosophy enthusiast
 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/robert-rybczynski-a86187a0/"></a></img>
 <div align="center">
 <img src="./images/techno.gif" width="100"/>
   <h1>Technologies</h1>
