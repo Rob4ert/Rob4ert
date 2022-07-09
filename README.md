@@ -7,7 +7,7 @@ My name is Robert Rybczynski, I'm a full-stack developer based in London, with a
 
 
 <div align="center">
-<img src="./images/techno.gif" width="100"/>
+<img src="./images/techno.gif" width="70"/>
   <h1>Technologies</h1>
     </div>
 # Programming languages
@@ -37,9 +37,9 @@ My name is Robert Rybczynski, I'm a full-stack developer based in London, with a
 
 
 
-
-<img src="./images/pin.png" width="100" align="center"/>
-
+<div align="center">
+<img src="./images/pin.png" width="70" align="center"/>
+</div>
 
 <h1 align="center">Checkout my latest project: </h1>
 <div align="center">
