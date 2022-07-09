@@ -10,6 +10,8 @@ My name is Robert Rybczynski, I'm a full-stack developer based in London, with a
 <img src="./images/techno.gif" width="70"/>
   <h1>Technologies</h1>
     </div>
+    
+    
 **Programming languages**
   <p><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
