@@ -9,23 +9,34 @@ My name is Robert Rybczynski, I'm a full-stack developer based in London, with a
 <div align="center">
 <img src="./images/techno.gif" width="100"/>
   <h1>Technologies</h1>
-   
-  <img src="./images/nodedotjs.svg" width="55"/>
-  <img src="./images/typescript.svg" width="55"/>
-  <img src="./images/react.svg" width="55"/>
-  <img src="./images/angular.svg" width="55"/>
-    <img src="./images/css3.svg" width="55"/>
-  <img src="./images/sass.svg" width="55"/>
-  <img src="./images/express.svg" width="55"/>
-  <img src="./images/mongodb.svg" width="55"/>
-  <img src="./images/postgresql.svg" width="55"/>
-   <img src="./images/python.svg" width="55"/>
-  <img src="./images/koa.svg" width="55"/>
-  <img src="./images/graphql.svg" width="55"/>
-  <img src="./images/firebase.svg" width="55"/>
+    </div>
+# Programming languages
+  <p><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> </p>
+    
+# Frontend
+  <p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/react%20zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> </p>
+  
+# Backend
+  <p><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="	https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/koa-EEEEEE?style=for-the-badge&logo=koa&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" /></p>
 
 
- </div>
+
 
 
 
