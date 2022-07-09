@@ -38,6 +38,7 @@ My name is Robert Rybczynski, I'm a full-stack developer based in London, with a
 
 
 
+<img src="./images/pin.png" width="100" align="center"/>
 
 
 <h1 align="center">Checkout my latest project: </h1>
