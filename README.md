@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there <img src="./images/drum.webp"/ align="center" width="66"></h1>
 
-My name is Robert Rybczynski, I'm a full-stack developer based in London., with a mind set on pursuing the depth of web development. Working mostly with React, but constantly learning new technologies and exploring new projects. Part-time traveler, climber and philosophy enthusiast
+My name is Robert Rybczynski, I'm a full-stack developer based in London, with a mind set on pursuing the depth of web development. Working mostly with React, but constantly learning new technologies and exploring new projects. Part-time traveler, adventurer and philosophy enthusiast
 
 <div align="center">
 <img src="./images/techno.gif" width="100"/>
